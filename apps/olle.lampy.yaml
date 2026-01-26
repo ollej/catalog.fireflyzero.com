@@ -17,5 +17,25 @@ categories:
   - accessibility/two-handed
   - accessibility/multi-button
   - programming-language/rust
-desc: >
-  A multiplayer game where players compete to collect different colored fireflies.
+desc: |
+  A multiplayer game where you race to be the first to collect fireflies for 20 points using matching colored flashlights.
+
+  Guide the fireflies with a flashlight matching their color. Each button activates a different colored flashlight.
+  - N -- Red
+  - E -- agenta
+  - S -- Green
+  - W -- Blue
+
+  Different colored fireflies are worth a different amount of points, and they are less common when they're worth more points.
+  - Red -- 1 point
+  - Magenta -- 2 points
+  - Green -- 3 points
+  - Blue -- 5 points
+
+  Written using [Rust](https://rust-lang.org/) as part of the [Firefly Zero Jam #1](https://itch.io/jam/firefly-jam)
+
+ ## Credits
+
+ - Code: [Olle W](https://github.com/ollej)
+ - Code and art: [boots](https://github.com/Kattboots)
+ - Music and sound effects: (OpenGameArt.org)[https://opengameart.org/]
